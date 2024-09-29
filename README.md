@@ -1,6 +1,3 @@
-name : majd aqrabwi
-email address : maaqrabawi@my.waketech.edu
-2.	A brief description of your Github account 
-3. i visited a github website and sign up with the new account
-downloaded a github app on desktop and then i logged in with my account 
-and creat a new clone repository  and located it on my pc , then opened my file and then my clone repository that i have created and commit a chanage 
+# About me
+# My interests: i enjoy delving into topics that combine history and other culture . I have a passion for learning new languages and discovering different cultures. Lastly, I love solving puzzles.
+#Websites i recommend: 1. Khan Academy- ( https://www.khanacademy.org/ ) , it is very helpful reference for student, its an free academy content in subjects like math, science, and history. \\ 2. wake tech libary databases -  (https://www.waketech.edu/student-services/libraries) , Students can explore academic databases that offer research articles, eBooks, journals, and other scholarly content.
